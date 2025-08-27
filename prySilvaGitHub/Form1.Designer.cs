@@ -36,7 +36,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(519, 450);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Registro en GitHub de mi proyecto";
             ResumeLayout(false);
         }
 
